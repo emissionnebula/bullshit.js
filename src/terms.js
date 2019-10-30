@@ -26,7 +26,7 @@ export default [
     'as a service',
     'assets?',
     'astonishing',
-    'authoritative',
+    'authoritative',f
     'automated',
     'augmented',
     'extended reality',
@@ -328,6 +328,7 @@ export default [
     'proactive',
     'problem space',
     'processes',
+    'pro(fessional)?',
     'profit(ability)?',
     'promotion',
     'promotional collateral',
